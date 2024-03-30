@@ -57,6 +57,9 @@
 .cl-providerIcon__github {
   filter: invert(1);
 }
+.cl-userButtonPopoverActionButtonIcon {
+  filter: invert(1);
+}
 .cl-internal-sr03kg {
   display: none;
 }
@@ -70,7 +73,9 @@
 .cl-userButtonPopoverActionButton {
   color: white;
 }
-
+.cl-internal-wkkub3 {
+  display: none;
+}
 /* =============================== */
 
 @layer utilities {
